@@ -7,3 +7,5 @@
 - supports gyro
 - designed for nova launcher (3 screens, no dock)
 - bloody version available when u tap on luca
+- art by zhujichuzi/KANOSE for luca kaneshiro's mafia cover
+- upscaling and separation of assets by me
