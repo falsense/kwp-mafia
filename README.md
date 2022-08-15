@@ -4,6 +4,13 @@
 
 ![unknown](https://user-images.githubusercontent.com/61857431/184546340-ad620a0d-1b9f-4484-93d9-859d974ba7fb.png)
 
+
+
+
+https://user-images.githubusercontent.com/61857431/184581440-183f575d-baa4-4fff-b57c-b6849c34f16a.mp4
+
+
+
 - supports gyro
 - designed for nova launcher (3 screens, no dock, background scroll enabled)
 - bloody version available when u tap on luca
