@@ -20,6 +20,8 @@ https://user-images.githubusercontent.com/61857431/184581440-183f575d-baa4-4fff-
 - nova launcher (3 screens, no dock, background scroll enabled)
 - klwp pro (android users only)
 
+---
+
 ### credits
 - art by zhujichuzi/KANOSE for luca kaneshiro's mafia cover
 - upscaling and separation of assets by me
